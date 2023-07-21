@@ -1,0 +1,3 @@
+" ","Predicted Malaria Positive case","Predicted Malaria Negative case"
+"Actual Malaria Positive case","True Positive (TP)","False Negative (FN)"
+"Actual Malaria Negative case","False Positive (FP)","True Negative (TN)"
